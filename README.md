@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jonas-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascipt-original.svg">
+  <img align="center" alt="jonas-javascript" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png">
 </div>
 
 ##
