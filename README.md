@@ -2,7 +2,7 @@
 
 
  ### ✅ sobre mim
- estou em transiçao de carreira para area de QA(quality assurance) e atualmente estou trabalhando com marcenaria
+ estou em transição de carreira para area de QA(quality assurance) e atualmente estou trabalhando com marcenaria
  e buscando conhecimento como teste de qualidade.
 
 ### 📚 habilidades em desenvolvimento
