@@ -1,11 +1,11 @@
 ### bem-vindo(a) ao meu Github! 💙 eu me chamo Jonas campos
 
 
- ### sobre mim
+ ### ✅ sobre mim
  estou em transiçao de carreira para area de QA(quality assurance) e atualmente estou trabalhando com marcenaria
  e buscando conhecimento como teste de qualidade.
 
-### habilidades em desenvolvimento
+### 📚 habilidades em desenvolvimento
 teste de software
 
 reporta bugs
@@ -14,7 +14,7 @@ pensamento critico e analitico
 
 planejamento de teste 
 
-### Ferramentas
+### 🛠️ Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -23,7 +23,7 @@ planejamento de teste
  <img align="center" alt="jonas-jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain.svg">
 </div>
 
-## Contatos
+## 💻 Contatos
 
 <div> 
   <a href="https://www.instagram.com/jonas_camposs0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
