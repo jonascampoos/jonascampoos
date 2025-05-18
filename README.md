@@ -6,13 +6,13 @@
  e buscando conhecimento como teste de qualidade.
 
 ### 📚 habilidades em desenvolvimento
-teste de software
+teste de software.
 
-reporta bugs
+reporta bugs.
 
-pensamento critico e analitico
+pensamento critico e analitico.
 
-planejamento de teste 
+planejamento de teste.
 
 ### 🛠️ Ferramentas
 
