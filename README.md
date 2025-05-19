@@ -20,7 +20,7 @@ planejamento de teste.
   <img align="center" alt="jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="jonas-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Jira/Jira-plain.svg">
+ <img align="center" alt="jonas-jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain.svg">
 </div>
 
 ## 💻 Contatos
