@@ -14,6 +14,8 @@ pensamento critico e analitico.
 
 planejamento de teste.
 
+metodologia agil
+
 ### 🛠️ Ferramentas
 
 <div style="display: inline_block"><br>
