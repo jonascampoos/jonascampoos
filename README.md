@@ -6,15 +6,21 @@
  e buscando conhecimento como teste de qualidade.
 
 ### 📚 habilidades em desenvolvimento
-teste de software.
 
-reporta bugs.
+🔍 QA com atuação em testes funcionais, exploratórios e automatizados
 
-pensamento critico e analitico.
+🛠 Experiência em Cypress + JavaScript para automação de testes
 
-planejamento de teste.
+📋 Forte atuação em validação de requisitos, reporte e acompanhamento de bugs
 
-metodologia agil
+🚀 Experiência com práticas ágeis (Scrum/Kanban) com a ferramenta Jira e colaboração em times multidisciplinares
+
+🧪 Conhecimento sólido em testes manuais, exploratórios e bug bashes
+
+🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em cobertura e rastreabilidade
+
+🎯 Foco em entregar produtos digitais mais confiáveis, eficientes e com melhor experiência para o usuário
+
 
 ### 🛠️ Ferramentas
 
