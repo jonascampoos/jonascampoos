@@ -24,14 +24,16 @@
 
 ### 🛠️ Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jonas-jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain.svg">
-  <img align="center" alt="jonas-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
-
-</div>
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff)
+  ![Scrum](https://img.shields.io/badge/-Scrum-009FDA?logo=scrumalliance&logoColor=fff)
+  ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=trello&logoColor=fff)
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+  ![Cypress](https://img.shields.io/badge/-Cypress-04C38E?logo=cypress&logoColor=fff)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)
 
 ## 💻 Contatos
 
